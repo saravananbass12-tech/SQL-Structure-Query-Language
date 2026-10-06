@@ -1,4 +1,4 @@
-# 🗄️ SQL Practice & Database Projects 2026
+# 🗄️ SQL Practice & Database 
 
 <div align="center">
 
@@ -351,7 +351,7 @@ https://github.com/saravananbass12-tech
 
 <div align="center">
 
-### ⭐ SQL Practice & Database Projects — 2026
+### ⭐ SQL Practice & Database 
 
 **Learn • Practice • Analyze • Build**
 
