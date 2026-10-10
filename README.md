@@ -348,10 +348,6 @@ ON e.department = d.department;
 
 📍 **Tamil Nadu, India**
 
-💻 **GitHub**
-
-https://github.com/saravananbass12-tech
-
 </div>
 
 ---
